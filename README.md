@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/elsyifa/HOME-CREDIT_Kaggle/blob/master/Images/HomeCredit.png)
 
-Many people struggle to get loans due to insufficient or non- existent credit histories. Home credit strives to focus on responsible lending primarily to people with little or no credit history.Aiming of Kaggle competition is to predict their clients' repayment abilities. Doing so will ascertain capable clients are not rejected.  
+Many people struggle to get loans due to insufficient or non- existent credit histories. Home credit strives to focus on responsible lending primarily to people with little or no credit history.Aiming of Kaggle competition is to predict their clients' repayment abilities. Doing so will ascertain capable clients are not rejected. You can find out the data here https://www.kaggle.com/c/home-credit-default-risk/data
 
 I used Zeppelin and pyspark as environment in this prediction and this is a classification prediction.
 ![alt text](https://github.com/elsyifa/HOME-CREDIT_Kaggle/blob/master/Images/Zeppelin.png)
