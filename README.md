@@ -32,6 +32,8 @@ And this data categorized as imbalance classification. Imbalance classification 
 
 I used Down sampling method that I run in pyspark environment and Over sampling method in python environment. From those method, Down sampling given better accuracy with Random Forest modelling. As information I used three different modelling, they are logistic Regression, Decision Tree and Random Forest. 
 
-More details about how the codes are explained in syifa_Home-Credit-DownSampling (3).json and syifa_Home-Credit-OverSampling.ipynb. While the explanation regarding data explanatory, handle missing values, handle outlier, modelling, model evaluation and the result of prediction are written in my slide persentation, called Home_Credit_Default_Risk.pdf. All those files, I upload in this repository. 
+More details about how the codes are explained in syifa_Home-Credit-DownSampling (3).json and syifa_Home-Credit-OverSampling.ipynb. While the explanation regarding data explanatory, handle missing values, handle outlier, modelling, model evaluation and the result of prediction are written in my slide persentation, called Home_Credit_Default_Risk.pdf. 
+
+All those files, I uploaded in this repository. 
 
 Thanks. 
