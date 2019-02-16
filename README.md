@@ -8,10 +8,15 @@ Many people struggle to get loans due to insufficient or non- existent credit hi
 
 I used Zeppelin and pyspark as environment in this prediction. 
 ![alt text](https://github.com/elsyifa/HOME-CREDIT_Kaggle/blob/master/Images/Zeppelin.png)
+
 Zeppelin is Interactive web-based notebooks, we can do anything like data ingestion, data exploration, visualization and sharing data in Zeppelin notebooks.
 
 ![alt text](https://github.com/elsyifa/HOME-CREDIT_Kaggle/blob/master/Images/Spark.png)
 While Spark is Analytic engine for big data processing and easy of use. Spark uses Java, Scala, Python, R, and SQL as programming language, and I used Python (Pyspark) as a programming language. One of the advantages of Spark is speed,which is can run workloads 100x faster.
+
+## DATA
+
+I will little bit explain about the data. 
 
 
 
