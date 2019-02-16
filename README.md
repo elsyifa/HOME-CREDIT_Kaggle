@@ -21,7 +21,7 @@ Actually, the data is huge and many tables are related but just focus on applica
 ![alt text](https://github.com/elsyifa/HOME-CREDIT_Kaggle/blob/master/Images/relation_tables.png)
 
 
-This data has 8 categorical variables and 9 numerical variables. 
+There are 122 columns at data train and 121 at data test but let focus on important variables. So, there are just 8 categorical variables and 9 numerical variables. 
 
 ![alt text](https://github.com/elsyifa/HOME-CREDIT_Kaggle/blob/master/Images/data1.png)
 
@@ -32,7 +32,7 @@ And this data categorized as imbalance classification. Imbalance classification 
 
 I used Down sampling method that I run in pyspark environment and Over sampling method in python environment. From those method, Down sampling given better accuracy with Random Forest modelling. As information I used three different modelling, they are logistic Regression, Decision Tree and Random Forest. 
 
-More details about how the codes are explained in syifa_Home-Credit-DownSampling (3).json and syifa_Home-Credit-OverSampling.ipynb. While the explanation regarding data explanatory, handle missing values, handle outlier, modelling, model evaluation and the result of prediction are written in my slide persentation, called Home_Credit_Default_Risk.pdf. 
+More details about how the codes are explained in syifa_Home-Credit-DownSampling (3).json and syifa_Home-Credit-OverSampling.ipynb. While the explanation regarding data explanatory, handle missing values, handle outlier, modelling, model evaluation and the result of prediction are written in my slide persentation, called Home_Credit_Default_Risk_v2.pdf. 
 
 All those files, I uploaded in this repository. 
 
