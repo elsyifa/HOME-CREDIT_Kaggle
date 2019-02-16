@@ -20,10 +20,13 @@ I will little bit explain about the data.
 Actually, the data is huge and many tables are related but just focus on application_train|test.csv to buid up the understanding and to avoid diving all and getting lost. The diagram below shows relation between tables.
 ![alt text](https://github.com/elsyifa/HOME-CREDIT_Kaggle/blob/master/Images/relation_tables.png)
 
+
 This data has 8 categorical variables and 9 numerical variables. 
+
 ![alt text](https://github.com/elsyifa/HOME-CREDIT_Kaggle/blob/master/Images/data1.png)
 
 And this data categorized as imbalance classification. Imbalance classification is a condition where the difference number of observations between one class with other class is huge. There are some method to handle imbalance data: Down sampling and Over sampling. 
+
 ![alt text](https://github.com/elsyifa/HOME-CREDIT_Kaggle/blob/master/Images/imbalance.png)
 
 
